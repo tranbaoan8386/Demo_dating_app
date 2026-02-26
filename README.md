@@ -52,7 +52,7 @@ name
 age
 gender
 bio
-email (unique)
+email 
 /==============/
 2/ Like
 
